@@ -2,6 +2,7 @@
   "name": "ng-lleitelab",
   "version": "0.0.1",
   "homepage": "https://github.com/lleitelab/ng-lleitelab",
+  "private": true,
   "authors": [
     "Leandro Leite <leandro@leandroleite.info>"
   ],
