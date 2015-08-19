@@ -1,0 +1,30 @@
+{
+  "name": "ng-lleitelab",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lleitelab/ng-lleitelab",
+  "authors": [
+    "Leandro Leite <leandro@leandroleite.info>"
+  ],
+  "description": "angular components",
+  "main": [
+    "ng-llab.js",
+    "uillab.scss",
+    "uillab.css"
+  ],
+  "keywords": [
+    "angular",
+    "ui",
+    "components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "angular": "1.4.3"
+  }
+}
